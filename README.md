@@ -4,7 +4,7 @@
 
 <p>
   <!-- Languages -->
-  <strong>🛠 Languages</strong><br>
+  <strong>💻 Languages</strong><br>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -16,7 +16,7 @@
 
 <p>
   <!-- Frameworks -->
-  <strong>🛠 Frameworks</strong><br>
+  <strong>⚙️ Frameworks</strong><br>
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="JavaFX" src="https://img.shields.io/badge/-JavaFX-18A303?style=flat-square&logo=java&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
