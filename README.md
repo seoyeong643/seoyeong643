@@ -1,6 +1,6 @@
 ![GitHub Banner 3_1](https://github.com/user-attachments/assets/bbe09b1f-6469-4975-ae2a-b569fd834b2a)
 
-💻 SWE Intern @ GM 23, 24  
+💻 SWE Intern @ GM 23, 24, Drive Insight 24
 📝 ASU & NSF Student Researcher on NLP 22, 24  
 🌱 Exploring the world of coding and software development
 
